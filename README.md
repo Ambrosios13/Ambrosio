@@ -8,7 +8,7 @@
 
 **Gilberto Ambrosio G. M. Neto** atua com sistemas corporativos, consultas e Views em Oracle Database e manutenção de aplicações em C# e PHP legado. Seu trabalho envolve C#, ASP.NET MVC e SQL, com atenção ao fluxo dos dados, às regras de negócio e à preservação do comportamento dos sistemas existentes.
 
-Seu perfil técnico é marcado pela investigação do funcionamento das aplicações: rastreamento de relacionamentos, análise de responsabilidades e depuração para compreender a origem dos resultados. Também possui contato com PHP, integração de plataformas e operações de comércio eletrônico. Valoriza explicações fundamentadas, documentação das decisões e verificação das alterações.
+Seu perfil técnico é marcado pela investigação do funcionamento das aplicações: rastreamento de relacionamentos, análise de responsabilidades e depuração para compreender a origem dos resultados. Também trabalhou com PHP, integração de plataformas e operações de comércio eletrônico. Valoriza explicações fundamentadas, documentação das decisões e verificação das alterações.
 
 ## Desenvolvimento e aprendizagem
 

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="title desc">
 <title id="title">Gilberto Ambrosio G. M. Neto</title>
-<desc id="desc">Desenvolvimento de sistemas e dados. C#, ASP.NET MVC, Oracle SQL, UML e Local AI.</desc>
+<desc id="desc">Desenvolvimento e dados. C#, ASP.NET MVC, Oracle SQL, UML e Local AI.</desc>
 <rect width="900" height="210" fill="#000000"/>
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg x='70' y='12' xmlns='http://www.w3.org/2000/svg'
@@ -21,7 +21,7 @@
 
                     <path id='path0'>
                             <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d3.end'
+                                <animate id='d0' attributeName='d' begin='0s;d2.end'
                     dur='4600ms' fill='remove'
                     values='m0,55 h0 ; m0,55 h760 ; m0,55 h760 ; m0,55 h0' keyTimes='0;0.48695652173913;0.87826086956522;1' />
                     </path>
@@ -44,7 +44,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            Desenvolvimento de sistemas e dados
+            Desenvolvimento e dados
         </textPath>
     </text>
         <path id='path2'>
@@ -58,20 +58,6 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path2'>
-            C# · ASP.NET MVC · Oracle SQL · UML
-        </textPath>
-    </text>
-        <path id='path3'>
-                            <!-- Single line -->
-                                <animate id='d3' attributeName='d' begin='d2.end'
-                    dur='4600ms' fill='remove'
-                    values='m0,55 h0 ; m0,55 h760 ; m0,55 h760 ; m0,55 h0' keyTimes='0;0.48695652173913;0.87826086956522;1' />
-                    </path>
-    <text font-family='"Share Tech Mono", monospace' fill='#00FF41' font-size='27'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path3'>
             Estudos em IA local e sistemas de agentes
         </textPath>
     </text>
